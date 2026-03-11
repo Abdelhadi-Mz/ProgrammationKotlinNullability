@@ -207,3 +207,5 @@ Ce projet est realise dans le cadre d'un laboratoire pedagogique.
 ## Screenshot
 
 ![App Screenshot](screenshot.png)
+
+<img width="443" height="153" alt="screenshot2" src="https://github.com/user-attachments/assets/213bda7f-d380-4cef-8b9c-137408b9c23f" />
